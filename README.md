@@ -5,3 +5,10 @@ git init
 git clone
 
 git status
+git diff
+
+git add
+git commit
+
+git log
+
