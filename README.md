@@ -16,4 +16,13 @@ git blame <file>
 git branch
 git branch <new-branch>
 git checkout <branch>
+git tag <tag-name>
+
+git remote -v
+git remote show <remote>
+git remote add <remote> <url>
+git fetch <remote>
+git pull <remote> <branch>
+git push <remote> <branch>
+git push --tags
 
