@@ -11,4 +11,7 @@ git add
 git commit
 
 git log
+git blame <file>
+
+git branch
 
