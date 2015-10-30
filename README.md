@@ -14,4 +14,6 @@ git log
 git blame <file>
 
 git branch
+git branch <new-branch>
+git checkout <branch>
 
